@@ -2,8 +2,6 @@
 
 A responsive and interactive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Recharts** — designed to showcase charting and frontend architecture skills.
 
-> ⚠️ **Note:** This dashboard is built for desktop screens. For the best experience, please view it on a device with a screen width **above 1200px**.
-
 ## 🚀 Live Demo
 
 Check out the live app here: [admin-dashboard-jd.netlify.app](https://admin-dashboard-jd.netlify.app/)
@@ -45,6 +43,4 @@ The goal of this dashboard is to demonstrate:
 
 ---
 
-## 🖥️ Desktop-First Design
-
-This dashboard is designed for large screens. If you're on a smaller device, please switch to a screen **wider than 1200px** for optimal use.
+> ⚠️ **Note:** This dashboard is built for desktop screens. For the best experience, please view it on a device with a screen width **above 1200px**.
