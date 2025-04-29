@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer component {
+    .paper {
+        @apply p-3 bg-secondary backdrop-blur-md border border-slate-500/30 rounded-md shadow-all
+    }
+}
+
+/* .some {
+    background-color: rgba(204, 204, 204, 0.388)
+} */
