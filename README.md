@@ -1,12 +1,50 @@
-# React + Vite
+# Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Recharts** — designed to showcase charting and frontend architecture skills.
 
-Currently, two official plugins are available:
+> ⚠️ **Note:** This dashboard is built for desktop screens. For the best experience, please view it on a device with a screen width **above 1200px**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+Check out the live app here: [admin-dashboard-jd.netlify.app](https://admin-dashboard-jd.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔄 **Page Navigation**: Separate views for `Products`, `Users`, `Sales`, `Orders`, and `Analysis`.
+- 📊 **Chart Visualizations** using Recharts:
+  - `AreaChart`
+  - `BarChart`
+  - `LineChart`
+  - `PieChart`
+  - `RadarChart`
+- 💅 **Tailwind CSS** for styling a clean and consistent UI.
+- ⚛️ **React** component-based architecture for modular and scalable code.
+- 📦 **Static Data** (currently) with a structure that can easily support live data in the future.
+
+---
+
+## 🎯 Objective
+
+The goal of this dashboard is to demonstrate:
+
+- Proficiency in building SPA (Single Page Applications) with React.
+- Integration and customization of charting libraries.
+- Efficient UI structuring and styling using utility-first CSS (Tailwind).
+
+---
+
+## 🔧 Tech Stack
+
+- **React** – Component-based UI library
+- **Tailwind CSS** – Utility-first styling framework
+- **Recharts** – Simple yet powerful charting library
+
+---
+
+#### This can be used with live data coming from API or databse like firebase
+
+---
+
+## 🖥️ Desktop-First Design
+
+This dashboard is designed for large screens. If you're on a smaller device, please switch to a screen **wider than 1200px** for optimal use.
