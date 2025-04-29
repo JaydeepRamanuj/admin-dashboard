@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-A responsive and interactive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Recharts** — designed to showcase charting and frontend architecture skills.
+An interactive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Recharts** — designed to showcase charting and frontend architecture skills.
 
 ## 🚀 Live Demo
 
